@@ -10,28 +10,12 @@ public class OpenmarkethubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OpenmarkethubApplication.class, args);
-		
+
 	}
-	
-	
+
 	@Bean
 	public ModelMapper modelMapper() {
 		return new ModelMapper();
 	}
-	
-	
-	
-
 
 }
-
-
-
-
-
-
-
-
-
-
-
