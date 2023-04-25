@@ -26,3 +26,6 @@ Open market hub backend developed using Spring Boot.
 
 
 
+## Youtube video
+---
+[Openmarkethub video](https://www.youtube.com/watch?v=s1sNCwOswXc)
